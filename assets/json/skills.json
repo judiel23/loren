@@ -1,0 +1,40 @@
+data=[
+	{
+		"icono": "",
+		"titulo": "Laravel",
+		"tiempo": " 1 año",
+		"porcentaje": 90
+	},
+
+	{
+		"icono": "",
+		"titulo": "PostgreSql",
+		"tiempo": "2 años" ,
+		"porcentaje": 70
+	},
+	{
+		"icono": "",
+		"titulo": "Javascript",
+		"tiempo": "2 años" ,
+		"porcentaje": 80
+	},
+	{
+		"icono": "",
+		"titulo": "AngularJs",
+		"tiempo": "& meses",
+		"porcentaje": 60
+
+	},
+	{
+		"icono": "",
+		"titulo": "Git",
+		"tiempo": "2 años" ,
+		"porcentaje": 70
+	},
+	{
+		"icono": "",
+		"titulo": "Ruby",
+		"tiempo": "1 años" ,
+		"porcentaje": 75
+	}
+]
